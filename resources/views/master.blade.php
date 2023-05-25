@@ -11,6 +11,7 @@
 </head>
 <body>
    {{View::make('header')}}
-  @yield('content')  
+  @yield('content') 
+  {{View::make('footer')}} 
 </body>
 </html>
