@@ -17,11 +17,8 @@
       <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
       <button class="btn btn-outline-success my-2 my-lg-2" type="submit">Search</button>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Cart(0)</a></li>
+        <li><a class ="nav-link" href="#">Cart(0)</a></li>
     </ul>
     </form>
-    <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Cart(0)</a></li>
-    </ul>
   </div>
 </nav>
