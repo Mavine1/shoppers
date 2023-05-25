@@ -11,7 +11,6 @@
           <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Orders</a>
         </li>
-        </li>
       </ul>
       <form class="d-flex">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
@@ -19,7 +18,7 @@
       </form>
       <ul class="nav-item">
       <li class="nav-item">
-          <a class="nav-link" href="#">Cart(0)</a>
+      <a class="nav-link active" aria-current="page" href="#">Orders</a>
         </li>
       </ul>
     </div>
