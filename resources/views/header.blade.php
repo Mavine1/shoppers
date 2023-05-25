@@ -14,7 +14,9 @@
       </li>
     </ul>
     <form class="navbar-form navbar-left">
-      
+    <div class="form-group">
+        <input type="text" class="
+    </div>
       <ul class="nav navbar-nav navbar-right">
         <li><a class ="nav-link" href="#">Cart(0)</a></li>
     </ul>
