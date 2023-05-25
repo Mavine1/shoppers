@@ -1,7 +1,7 @@
 @extends('master')
 @section("content")
 <div class="container custom-login">
-    <div class="row">
+    <div class="row vertical-center">
         <div class="col-sm-4 nav-log ">
         <form>
   <div class="form-group">
