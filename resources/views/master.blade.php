@@ -19,10 +19,9 @@
         height: 450px;
         padding-top: 100px;
     }
-    .vertical-center {
+    .nav-log {
    display: flex;
    align-items: center;
-  
 }
     </style>
 </html>
