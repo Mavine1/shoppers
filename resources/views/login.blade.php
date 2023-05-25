@@ -2,7 +2,7 @@
 @section("content")
 <div class="container">
     <div class="row">
-        <div class="col-sm-4 col-sm-offset-4">
+        <div class="col-sm-4 align-self-center">
         <form>
   <div class="form-group">
     <label for="exampleInputEmail1">Email address</label>
