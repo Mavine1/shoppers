@@ -17,7 +17,8 @@
     <div class="form-group">
         <input type="text" class="form-control" placeholder="search">
     </div>
-    <button type="submit" class=btn btn-></button>
+    <button type="submit" class="btn btn-default">Submit</button>
+    </form>
       <ul class="nav navbar-nav navbar-right">
         <li><a class ="nav-link" href="#">Cart(0)</a></li>
     </ul>
