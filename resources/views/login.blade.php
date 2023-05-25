@@ -2,7 +2,7 @@
 @section("content")
 <div class="container custom-login">
     <div class="row">
-        <div class="col-sm-4 d-flex align-items-center justify-content-center vh-70">
+        <div class="col-sm-4 ">
         <form>
   <div class="form-group">
     <label for="exampleInputEmail1">Email address</label>
