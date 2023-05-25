@@ -1,4 +1,4 @@
 @extends('master')
 @section("content")
 <h1>Login page</h1>
-<button>click on me</button>
+<button class="btn btn primary">click on me</button>
