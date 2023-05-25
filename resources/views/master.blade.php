@@ -19,5 +19,8 @@
         height: 450px;
         padding-top: 100px;
     }
+    .nav-log {
+        
+    }
     </style>
 </html>
