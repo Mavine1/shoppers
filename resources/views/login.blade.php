@@ -2,7 +2,7 @@
 @section("content")
 <div class="container custom-login">
     <div class="row vertical-center">
-        <div class="col-sm-4 nav-log ">
+        <div class="col-xs-8 col-xs-offset-2  col-sm-6 col-sm-offset-3 col-md-4 col-sm-offset-4 col-lg-2 col-lg-offset-5">
         <form>
   <div class="form-group">
     <label for="exampleInputEmail1">Email address</label>

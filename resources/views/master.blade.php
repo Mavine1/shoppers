@@ -19,6 +19,8 @@
         height: 450px;
         padding-top: 100px;
     }
-
+    .nav-log {
+        align-self: center;
+    }
     </style>
 </html>
