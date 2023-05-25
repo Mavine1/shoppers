@@ -12,4 +12,7 @@
 <body>
     
 </body>
+<script>
+    $(document).ready(function)
+</script>
 </html>
