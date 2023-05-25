@@ -15,6 +15,9 @@
   {{View::make('footer')}} 
 </body>
 <style>
-    
+    .custom-login {
+       height:100px;
+       paddinh 
+    }
 </style>
 </html>
