@@ -20,7 +20,9 @@
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
         <button class="btn btn-outline-success" type="submit">Search</button>
       </form>
-      <ul class="nav navbar-nav navbar></ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Cart(0)</li>
+      </ul>
     </div>
   </div>
 </nav>
