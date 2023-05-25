@@ -15,7 +15,7 @@
       </ul>
       <form class="d-flex">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
+        <button class="btn btn-outline-primary" type="submit">Search</button>
       </form>
       <ul class="navbar-nav  mb-1 mb-lg-2">
       <li class="nav-item">
