@@ -18,8 +18,6 @@
     .custom-login{
         height: 450px;
         padding-top: 100px;
-        display: flex;
-        align-items: center;
     }
     </style>
 </html>
