@@ -10,9 +10,9 @@
   </div>
   <div class="form-group">
     <label for="exampleInputPassword1">Password</label>
-    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+    <input type="password" class="mb-2 form-control" id="exampleInputPassword1" placeholder="Password">
   </div>
-  <button type="submit" class="btn btn-outline-primary">Submit</button>
+  <button type="submit" class="mb-2 btn btn-outline-primary">Submit</button>
 </form>
         </div>
     </div>
