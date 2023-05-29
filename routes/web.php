@@ -17,3 +17,5 @@ use App\Http\controllers\Usercontroller;
 Route::get('/', function () {
     return view('login');
 });
+
+Route::post
