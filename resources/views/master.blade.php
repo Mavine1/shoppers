@@ -19,5 +19,11 @@
         height: 450px;
         padding-top: 100px;
     }
+    .footer_copyright {
+    text-align: center;
+    padding: 1.5rem 0;
+    border-radius: 1.5rem 0;
+    border-top: 2px solid var(--color-bg);
+}
     </style>
 </html>
