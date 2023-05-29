@@ -9,6 +9,6 @@ class Usercontroller extends Controller
     //
     function login(Request $req)
     {
-        return $req->
+        return $req->input();
     }
 }
