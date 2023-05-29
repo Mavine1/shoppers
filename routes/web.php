@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\controllers\Usercontroller;
+use App\Http\controllers\UserController;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,4 +18,4 @@ Route::get('/login', function () {
     return view('login');
 });
 
-Route::post("/login",[Usercontroller::class,'login']);
+Route::post("/login",[UserController::class,'login']);

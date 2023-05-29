@@ -7,5 +7,8 @@ use Illuminate\Http\Request;
 class UserController extends Controller
 {
     //
-    function login(Request $)
+    function login(Request $req)
+    {
+        return $req->input();
+    }
 }
