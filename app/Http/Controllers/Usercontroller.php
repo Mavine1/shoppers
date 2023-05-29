@@ -9,6 +9,6 @@ class UserController extends Controller
     //
     function login(Request $req)
     {
-        return User::where(['email'=>$req->email])->first();
+        $user= User::where(['email'=>$req->email])->first();
     }
 }
