@@ -1,6 +1,4 @@
-<div style="clear:both" class="panel panel-default">
-    <div class="panel-body">
-      Panel content
+<div class="footer_copyright">
+        <small>copyright &copy;2023 Mavine Tech</small>
     </div>
-    <div class="panel-footer">Panel footer</div>
-  </div>
+</footer>
