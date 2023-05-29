@@ -16,8 +16,10 @@
 </body>
 <style>
     .custom-login{
-        height: 450px;
-        padding-top: 100px;
+    text-align: center;
+    padding: 1.5rem 0;
+    border-radius: 1.5rem 0;
+    border-top: 2px;
     }
     .footer_copyright {
     text-align: center;
