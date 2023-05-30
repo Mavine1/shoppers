@@ -16,7 +16,9 @@ class productSeeder extends Seeder
         //
         DB::table('users')->insert([
             'name'=>'Tecno Mobile',
-            'name'=>'Tecno Mobile',
+            "price"=>"200",
+            "description"=>"200",
+            "price"=>"200",
            
         ]);
     }
