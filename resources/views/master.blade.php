@@ -22,6 +22,9 @@
     img.slider-img{
         height: 400px !important;
     }
+    .custom-product{
+        height: 600px;
+    }
     .footer_copyright {
     text-align: center;
     padding: 1.5rem 0;
