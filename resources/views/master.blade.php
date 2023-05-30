@@ -23,7 +23,7 @@
         height: 400px !important;
     }
     .custom-product{
-        height: 600px;
+        height: 800px;
     }
     .slider-text{
         background-color: #35443585 !important;
