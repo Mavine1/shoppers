@@ -15,6 +15,7 @@ class UserController extends Controller
             return "username or Password is not matched";
         }
         else{
+            $req
             return redirect('/');
         }
     }
