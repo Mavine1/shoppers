@@ -19,6 +19,9 @@
         height: 450px;
         padding-top: 100px;
     }
+    img.slider-img{
+        height: 400px !important;
+    }
     .footer_copyright {
     text-align: center;
     padding: 1.5rem 0;
