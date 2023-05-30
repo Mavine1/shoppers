@@ -17,7 +17,8 @@ class productSeeder extends Seeder
         DB::table('users')->insert([
             'name'=>'Tecno Mobile',
             "price"=>"200",
-            "description"=>"200",
+            "description"=>"A smartphone with a 4gb ram and much more features",
+            "Category"=>"mobile",
             "price"=>"200",
            
         ]);
