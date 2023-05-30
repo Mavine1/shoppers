@@ -15,6 +15,7 @@ class UserAuth
      */
     public function handle(Request $request, Closure $next): Response
     {
+        if($request->path()=="login" && $request->session)
         return $next($request);
     }
 }
