@@ -25,6 +25,9 @@
     .custom-product{
         height: 600px;
     }
+    .slider-text{
+        background-color: #35443585 !important;
+    }
     .footer_copyright {
     text-align: center;
     padding: 1.5rem 0;
