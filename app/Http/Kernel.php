@@ -22,7 +22,8 @@ class Kernel extends HttpKernel
         \Illuminate\Session\Middleware\StartSession::class,
         \App\Http\Middleware\TrimStrings::class,
         \Illuminate\Foundation\Http\Middleware\ConvertEmptyStringsToNull::class,
-        \app\Http\Middleware\UserAuth,
+        \App\Http\Middleware\UserAuth
+    ];
 
     /**
      * The application's route middleware groups.
