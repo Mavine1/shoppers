@@ -19,7 +19,7 @@ class productSeeder extends Seeder
             "price"=>"200",
             "description"=>"A smartphone with a 4gb ram and much more features",
             "Category"=>"mobile",
-            "price"=>"200",
+            "galley"=>"",
            
         ]);
     }
