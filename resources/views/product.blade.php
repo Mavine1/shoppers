@@ -11,7 +11,8 @@
       
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
-        <!--<div class="item {{$item['id']==1?'active':''}}">-->
+          @foreach ($products as $item)
+        <div class="item {{$item['id']==1?'active':''}}">
         <a href="detail/{{$item['id']}}">
               <img class="slider-img" src="{{$item['gallery']}}">
             <div class="carousel-caption slider-text">
@@ -20,6 +21,8 @@
             </div>
             </a>
           </div>
+    
+          @endforeach
         </div>
       
         <!-- Left and right controls -->
@@ -34,6 +37,7 @@
       </div>
       <div class="trending-wrapper">
         <h3>Tredning Products</h3>
+        @foreach($products as $item)
         <div class="trening-item">
           <a href="detail/{{$item['id']}}">
           <img class="trending-image" src="{{$item['gallery']}}">
@@ -42,6 +46,7 @@
           </div>
         </a>
         </div>
+        @endforeach
       </div>
       </div>
 </div>
