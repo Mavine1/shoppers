@@ -11,6 +11,6 @@ class productController extends Controller
     function index()
     {
         $data= product::all();
-        return view('product',[]);
+        return view('product',['products'=>$data]);
     }
 }
