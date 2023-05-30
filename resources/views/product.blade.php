@@ -11,7 +11,7 @@
       
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
-        <div class="item {{$item['id']==1?'active':''}}">
+        <!--<div class="item {{$item['id']==1?'active':''}}">-->
         <a href="detail/{{$item['id']}}">
               <img class="slider-img" src="{{$item['gallery']}}">
             <div class="carousel-caption slider-text">
