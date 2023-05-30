@@ -7,4 +7,8 @@ use Illuminate\Http\Request;
 class productController extends Controller
 {
     //
+    function index()
+    {
+        return "welcome"
+    }
 }
