@@ -10,7 +10,7 @@ class UserController extends Controller
     function login(Request $req)
     {
         $user= User::where(['email'=>$req->email])->first();
-        if($user || Hash::check($req->password,$user->password))
+        if($user || Hash::check($req->username,$user->password))
         {
             return "username or Password is not matched";
         }
