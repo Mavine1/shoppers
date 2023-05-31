@@ -15,6 +15,6 @@ class productController extends Controller
     }
     function detail($id)
     {
-        return product::find
+        return product::find($id);
     }
 }
