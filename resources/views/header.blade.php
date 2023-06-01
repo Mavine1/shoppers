@@ -1,6 +1,5 @@
 <?php 
 use App\Http\Controllers\ProductController;
-use 
 $total=0;
 if(Session::has('user'))
 {
