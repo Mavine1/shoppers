@@ -32,7 +32,7 @@
                 <div class="form-group">
                   <label for="pwd">Payment Method</label> <br> <br>
                   <input type="radio" value="cash" name="payment"> <span>online payment</span> <br> <br>
-                  <input type="radio" value="cash" name="payment"> <span>EMI payment</span> <br><br>
+                  <input type="radio" value="cash" name="payment"> <span>Paypal payment</span> <br><br>
                   <input type="radio" value="cash" name="payment"> <span>Payment on Delivery</span> <br> <br>
 
                 </div>
