@@ -17,7 +17,7 @@
     <label for="exampleInputPassword1">Password</label>
     <input type="password"  name="Password" class="mb-2 form-control" id="exampleInputPassword1" placeholder="Password">
   </div>
-  <button type="submit" class="mb-4 btn btn-outline-primary">Login</button>
+  <button type="submit" class="mb-4 btn btn-outline-primary">Register</button>
 </form>
         </div>
     </div>
