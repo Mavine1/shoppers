@@ -24,6 +24,6 @@ class UserController extends Controller
      $user = new User;
      $user->name=$req->name;
      $user->email=$req->email;
-     $user->password=$req->email;
+     $user->password=Hash::make($req->email;
     }
 }
