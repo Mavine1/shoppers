@@ -6,8 +6,8 @@
         <form action="/login" method="POST">
         @csrf
         <div class="form-group">
-    <label for="exampleInputEmail1">User Name address</label>
-    <input type="email" name="email"  class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+    <label for="exampleInputEmail1">User Name </label>
+    <input type="email" name="email"  class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="User Name">
   </div>
   <div class="form-group">
     <label for="exampleInputEmail1">Email address</label>
