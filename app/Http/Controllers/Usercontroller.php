@@ -19,8 +19,9 @@ class UserController extends Controller
             return redirect('/');
         }
     }
-    function Register()
+    function Register(Request $req)
     {
-        
+     $user = new User;
+     $
     }
 }
